@@ -38,6 +38,13 @@ layout: default
 * [Geo Freedom Day](https://osgeo.nl/)
   * Observed in 2011, 2012, 2013.
 
+### Related days
+
+* [Open Data Day (ODD)](https://opendataday.org/)
+  * Celebrated in 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019.
+* [Open Access Week (OAW)](http://openaccessweek.org/)
+  * Celebrated in 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019.
+
 ### Communication channels
 
 * Email: hello-at-freedomday-club
